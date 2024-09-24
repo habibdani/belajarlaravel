@@ -1,7 +1,7 @@
-document.addEventListener('DOMContentLoaded', function () {
-  function updateTime() {
-      const currentTime = new Date();
-      document.getElementById('current-time').textContent = currentTime.toLocaleString();
+document.addEventListener('DOMContentLoaded', function () { //
+  function updateTime() { // updatetime bebas
+    const currentTime = new Date();
+    document.getElementById('current-time').textContent = currentTime.toLocaleString();
   }
 
   updateTime();
@@ -14,3 +14,5 @@ document.addEventListener('DOMContentLoaded', function () {
       alert('Message sent! Thank you for contacting us.');
   });
 });
+
+yasin kontol
