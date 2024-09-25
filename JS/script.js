@@ -14,5 +14,3 @@ document.addEventListener('DOMContentLoaded', function () { //
       alert('Message sent! Thank you for contacting us.');
   });
 });
-
-yasin kontol
